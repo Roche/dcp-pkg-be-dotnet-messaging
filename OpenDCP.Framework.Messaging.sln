@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenDCP.Framework.Messaging", "OpenDCP.Framework.Messaging\OpenDCP.Framework.Messaging.csproj", "{98AFBC0C-C759-421B-BBE9-3BFE9C44424B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98AFBC0C-C759-421B-BBE9-3BFE9C44424B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AFBC0C-C759-421B-BBE9-3BFE9C44424B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AFBC0C-C759-421B-BBE9-3BFE9C44424B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AFBC0C-C759-421B-BBE9-3BFE9C44424B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C0B9AD-DF7C-4A6A-BBA5-627D3403491C}
+	EndGlobalSection
+EndGlobal

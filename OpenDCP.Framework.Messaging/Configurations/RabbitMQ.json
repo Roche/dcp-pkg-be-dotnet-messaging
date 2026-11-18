@@ -1,0 +1,14 @@
+{
+  "MessageBusProvider": {
+    "Driver": "RabbitMQ",
+    "Settings": {
+      "Host": "",
+      "Port": 1561,
+      "Password": "test",
+      "User": "test",
+      "SslCertPasspharse": "test",
+      "SslCertName": "test"
+      "UseSSL": true
+    }
+  }
+}
